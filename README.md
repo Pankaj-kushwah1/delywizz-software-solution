@@ -1,2 +1,2 @@
-# delywizz-software-solutions
+# delywizz-software-solution
 This is portfolio project for a company
